@@ -1,9 +1,9 @@
-# MetaWeather::CLI
+# MetaWeather
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/MetaWeather/CLI`. To experiment with that code, run `bin/console` for an interactive prompt.
+MetaWeather helps you get ready for the day or the next 6 days by displaying weather data from
+[MetaWeather](https\:www.metaweather.com).
 
-TODO: Delete this and the text above, and describe your gem
-
+MetaWeather lists data starting with the expected minimum temperature, expected temperature, expected max temperature, wind direction, wind speed, air pressure, humidity, and visibility. 
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -21,8 +21,7 @@ Or install it yourself as:
     $ gem install MetaWeather-CLI
 
 ## Usage
-
-TODO: Write usage instructions here
+Type `ruby Cli.rb` in the command line and follow the prompts.
 
 ## Development
 
